@@ -1,0 +1,16 @@
+body {background-color:black;font-family:arial;color:white}
+h1{color: grey;font-family: Verdana;}
+
+.maindiv{
+background-color: white;
+width: 500px;
+padding: 20px;
+border-radius: 25px;
+color: black;
+/* To align div to the center  */
+display: block; /* Make "display" as "block" */
+margin: 5px auto; /* "y" axis value will be developer defined and 
+                     "x" axis value will be set to "auto"*/
+
+}
+
